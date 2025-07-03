@@ -1,4 +1,4 @@
-# CO2-Emission-Deshboard
+# CO2-Emission-Dashboard
 # 🌍 CarbonScope: Global CO₂ Emissions Dashboard
 
 An interactive and insightful Power BI dashboard designed to visualize global carbon dioxide (CO₂) emissions across countries and years. This project helps users analyze emission trends, compare nations on total and per capita emissions, and explore the environmental impact of global industrial and population growth.
